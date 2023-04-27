@@ -1,0 +1,55 @@
+
+sudo su 
+
+create gitProfile
+
+cd gitProfile and = git init 
+
+git status 
+
+git commit -m ""
+
+git log == to see committed files
+
+git checkout commit hascode == to delete it 
+
+git checkout master ==to undo delete
+ 
+git checkout == used to shift in branches 
+
+git branch branchname
+
+git merge branchname == to merge branches
+
+touch .gitignore == to keep secret files 
+
+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
+
+
+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
+
+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
+
+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
+
+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
+
+
+git reset 
+git remote -v
+git pull --rebase
+git init
+git add -A
+git commit -m "Add your commit"
+git branch -M main
+git push origin main --force
+
+
+
+
+
+
+
+
+
+
